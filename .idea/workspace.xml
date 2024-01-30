@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ade8d765-b2f5-4556-9a94-fc9582d7ec3e" name="Changes" comment="test new image">
-      <change beforePath="$PROJECT_DIR$/course.html" beforeDir="false" afterPath="$PROJECT_DIR$/course.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/computer.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/computer.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,27 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706612013884</updated>
-    </task>
-    <task id="LOCAL-00036" summary="test new image">
-      <created>1706634119926</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1706634119926</updated>
-    </task>
-    <task id="LOCAL-00037" summary="test new image">
-      <created>1706634253318</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1706634253318</updated>
-    </task>
-    <task id="LOCAL-00038" summary="test new image">
-      <created>1706634323786</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1706634323786</updated>
     </task>
     <task id="LOCAL-00039" summary="test new image">
       <created>1706634468081</created>
@@ -410,7 +389,28 @@
       <option name="project" value="LOCAL" />
       <updated>1706643351232</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="test new image">
+      <created>1706643391449</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1706643391449</updated>
+    </task>
+    <task id="LOCAL-00086" summary="test new image">
+      <created>1706643541868</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1706643541868</updated>
+    </task>
+    <task id="LOCAL-00087" summary="test new image">
+      <created>1706643937018</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1706643937018</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
