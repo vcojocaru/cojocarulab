@@ -26,6 +26,18 @@
     <link rel="stylesheet" href="css/style.css">
     
   </head>
+  <style>
+   #side-menu {
+      height: 100vh;
+      width: 200px;
+      background-color: #333;
+      padding-top: 20px;
+      position: fixed;
+      top: 0;
+      left: 0;
+      overflow-y: auto; /* Enable scrolling if needed */
+    }
+  </style>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
   
   <div class="site-wrap">
@@ -77,15 +89,15 @@
           <div class="col-md-3 mb-5 mb-lg-0 position-relative">
             <br>
             <br>
-            <h2 class="section-title mb-3", style="font-size: 16px">Course</h2>
-            <p class="mb-4"><a href="#team-section", style="overflow-y:auto ; position:fixed;
-      padding: 90px;">1.Introduction</a>
-            <p class="mb-4"><a href="#team-section", style="overflow-y:auto ;position:fixed;
-      padding: 90px;">2.Instalations</a></p>
-            <p class="mb-4"><a href="#team-section", style="overflow-y:auto ;position:fixed;">3.Set the parameters</a></p>
-            <p class="mb-4"><a href="#team-section", style="overflow-y:auto ;">4.Analyse the data </a></p>
-            <p class="mb-4"><a href="#team-section", style="overflow-y:auto ;">5.Results</a></p>
-            <p class="mb-4"><a href="#team-section", style="overflow-y:auto ;">6.Conclusions</a></p>
+            <div id="side-menu">
+              <h2 class="section-title mb-3", style="font-size: 16px">Course</h2>
+              <p class="mb-4"><a href="#team-section", style="overflow-y:auto ; ">1.Introduction</a>
+              <p class="mb-4"><a href="#team-section", style="overflow-y:auto ;">2.Instalations</a></p>
+              <p class="mb-4"><a href="#team-section", style="overflow-y:auto ;">3.Set the parameters</a></p>
+              <p class="mb-4"><a href="#team-section", style="overflow-y:auto ;">4.Analyse the data </a></p>
+              <p class="mb-4"><a href="#team-section", style="overflow-y:auto ;">5.Results</a></p>
+              <p class="mb-4"><a href="#team-section", style="overflow-y:auto ;">6.Conclusions</a></p>
+            </div>
           </div>
           <div class="col-md-7 mb-5 mb-lg-0 position-relative">
             <img src="figures/computer.png"  alt="Image" class="img-fluid" style="display: block; margin: auto;">
