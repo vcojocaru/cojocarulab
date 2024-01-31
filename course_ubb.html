@@ -30,12 +30,19 @@
    #side-menu {
       height: 100vh;
       width: 200px;
-      background-color: #333;
+      background-color: #ffffff;
       padding-top: 20px;
       position: fixed;
       top: 0;
       left: 0;
       overflow-y: auto; /* Enable scrolling if needed */
+    }
+   #side-menu a {
+      padding: 15px;
+      text-decoration: none;
+      color: white;
+      display: block;
+      margin-bottom: 10px; /* Adjust this value for the desired space between links */
     }
   </style>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
@@ -90,6 +97,9 @@
             <br>
             <br>
             <div id="side-menu">
+              <br>
+              <br>
+              <br>
               <h2 class="section-title mb-3", style="font-size: 16px">Course</h2>
               <p class="mb-4"><a href="#team-section", style="overflow-y:auto ; ">1.Introduction</a>
               <p class="mb-4"><a href="#team-section", style="overflow-y:auto ;">2.Instalations</a></p>
