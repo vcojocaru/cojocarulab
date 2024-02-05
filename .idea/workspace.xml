@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ade8d765-b2f5-4556-9a94-fc9582d7ec3e" name="Changes" comment="test new image">
-      <change beforePath="$PROJECT_DIR$/figures/patrick.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/patrick.png" afterDir="false" />
-    </list>
+    <list default="true" id="ade8d765-b2f5-4556-9a94-fc9582d7ec3e" name="Changes" comment="test new image" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +64,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706612013884</updated>
-    </task>
-    <task id="LOCAL-00159" summary="test new image">
-      <created>1706731031280</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1706731031280</updated>
     </task>
     <task id="LOCAL-00160" summary="test new image">
       <created>1706731168544</created>
@@ -410,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707139094592</updated>
     </task>
-    <option name="localTasksCounter" value="208" />
+    <task id="LOCAL-00208" summary="test new image">
+      <created>1707139245973</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1707139245973</updated>
+    </task>
+    <option name="localTasksCounter" value="209" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
