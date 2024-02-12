@@ -1,433 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ade8d765-b2f5-4556-9a94-fc9582d7ec3e" name="Changes" comment="test new image">
+    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_ubb.html" beforeDir="false" afterPath="$PROJECT_DIR$/course_ubb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2bfhP9thYi6oUJuNuVJL6XX87fm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2c2ZXlcg1RKc3651p5s7hjfwego" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/apps/roxana/PycharmProjects/sequence_specificity&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="gitpages" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ade8d765-b2f5-4556-9a94-fc9582d7ec3e" name="Changes" comment="" />
-      <created>1706612013884</created>
+      <changelist id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="" />
+      <created>1707311675170</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1706612013884</updated>
+      <updated>1707311675170</updated>
     </task>
-    <task id="LOCAL-00169" summary="test new image">
-      <created>1706732314194</created>
-      <option name="number" value="00169" />
-      <option name="presentableId" value="LOCAL-00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1706732314194</updated>
-    </task>
-    <task id="LOCAL-00170" summary="test new image">
-      <created>1706732397556</created>
-      <option name="number" value="00170" />
-      <option name="presentableId" value="LOCAL-00170" />
-      <option name="project" value="LOCAL" />
-      <updated>1706732397556</updated>
-    </task>
-    <task id="LOCAL-00171" summary="test new image">
-      <created>1706732461917</created>
-      <option name="number" value="00171" />
-      <option name="presentableId" value="LOCAL-00171" />
-      <option name="project" value="LOCAL" />
-      <updated>1706732461917</updated>
-    </task>
-    <task id="LOCAL-00172" summary="test new image">
-      <created>1706732720350</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1706732720350</updated>
-    </task>
-    <task id="LOCAL-00173" summary="test new image">
-      <created>1706732799241</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1706732799241</updated>
-    </task>
-    <task id="LOCAL-00174" summary="test new image">
-      <created>1706872111807</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1706872111807</updated>
-    </task>
-    <task id="LOCAL-00175" summary="test new image">
-      <created>1706872295065</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1706872295065</updated>
-    </task>
-    <task id="LOCAL-00176" summary="test new image">
-      <created>1706872349838</created>
-      <option name="number" value="00176" />
-      <option name="presentableId" value="LOCAL-00176" />
-      <option name="project" value="LOCAL" />
-      <updated>1706872349838</updated>
-    </task>
-    <task id="LOCAL-00177" summary="test new image">
-      <created>1706872406121</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1706872406121</updated>
-    </task>
-    <task id="LOCAL-00178" summary="test new image">
-      <created>1706873457374</created>
-      <option name="number" value="00178" />
-      <option name="presentableId" value="LOCAL-00178" />
-      <option name="project" value="LOCAL" />
-      <updated>1706873457374</updated>
-    </task>
-    <task id="LOCAL-00179" summary="test new image">
-      <created>1706873570785</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1706873570785</updated>
-    </task>
-    <task id="LOCAL-00180" summary="test new image">
-      <created>1706873633944</created>
-      <option name="number" value="00180" />
-      <option name="presentableId" value="LOCAL-00180" />
-      <option name="project" value="LOCAL" />
-      <updated>1706873633944</updated>
-    </task>
-    <task id="LOCAL-00181" summary="test new image">
-      <created>1706873971857</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1706873971857</updated>
-    </task>
-    <task id="LOCAL-00182" summary="test new image">
-      <created>1706874062672</created>
-      <option name="number" value="00182" />
-      <option name="presentableId" value="LOCAL-00182" />
-      <option name="project" value="LOCAL" />
-      <updated>1706874062672</updated>
-    </task>
-    <task id="LOCAL-00183" summary="test new image">
-      <created>1706874161258</created>
-      <option name="number" value="00183" />
-      <option name="presentableId" value="LOCAL-00183" />
-      <option name="project" value="LOCAL" />
-      <updated>1706874161258</updated>
-    </task>
-    <task id="LOCAL-00184" summary="test new image">
-      <created>1706874244639</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1706874244639</updated>
-    </task>
-    <task id="LOCAL-00185" summary="test new image">
-      <created>1706874434949</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1706874434949</updated>
-    </task>
-    <task id="LOCAL-00186" summary="test new image">
-      <created>1706875235344</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1706875235344</updated>
-    </task>
-    <task id="LOCAL-00187" summary="test new image">
-      <created>1707123907546</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1707123907546</updated>
-    </task>
-    <task id="LOCAL-00188" summary="test new image">
-      <created>1707124603750</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1707124603750</updated>
-    </task>
-    <task id="LOCAL-00189" summary="test new image">
-      <created>1707124889076</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1707124889076</updated>
-    </task>
-    <task id="LOCAL-00190" summary="test new image">
-      <created>1707125332127</created>
-      <option name="number" value="00190" />
-      <option name="presentableId" value="LOCAL-00190" />
-      <option name="project" value="LOCAL" />
-      <updated>1707125332127</updated>
-    </task>
-    <task id="LOCAL-00191" summary="test new image">
-      <created>1707125567874</created>
-      <option name="number" value="00191" />
-      <option name="presentableId" value="LOCAL-00191" />
-      <option name="project" value="LOCAL" />
-      <updated>1707125567874</updated>
-    </task>
-    <task id="LOCAL-00192" summary="test new image">
-      <created>1707125621561</created>
-      <option name="number" value="00192" />
-      <option name="presentableId" value="LOCAL-00192" />
-      <option name="project" value="LOCAL" />
-      <updated>1707125621561</updated>
-    </task>
-    <task id="LOCAL-00193" summary="test new image">
-      <created>1707125894479</created>
-      <option name="number" value="00193" />
-      <option name="presentableId" value="LOCAL-00193" />
-      <option name="project" value="LOCAL" />
-      <updated>1707125894479</updated>
-    </task>
-    <task id="LOCAL-00194" summary="test new image">
-      <created>1707126496038</created>
-      <option name="number" value="00194" />
-      <option name="presentableId" value="LOCAL-00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1707126496038</updated>
-    </task>
-    <task id="LOCAL-00195" summary="test new image">
-      <created>1707126602399</created>
-      <option name="number" value="00195" />
-      <option name="presentableId" value="LOCAL-00195" />
-      <option name="project" value="LOCAL" />
-      <updated>1707126602399</updated>
-    </task>
-    <task id="LOCAL-00196" summary="test new image">
-      <created>1707127281928</created>
-      <option name="number" value="00196" />
-      <option name="presentableId" value="LOCAL-00196" />
-      <option name="project" value="LOCAL" />
-      <updated>1707127281928</updated>
-    </task>
-    <task id="LOCAL-00197" summary="test new image">
-      <created>1707128101745</created>
-      <option name="number" value="00197" />
-      <option name="presentableId" value="LOCAL-00197" />
-      <option name="project" value="LOCAL" />
-      <updated>1707128101745</updated>
-    </task>
-    <task id="LOCAL-00198" summary="test new image">
-      <created>1707128415367</created>
-      <option name="number" value="00198" />
-      <option name="presentableId" value="LOCAL-00198" />
-      <option name="project" value="LOCAL" />
-      <updated>1707128415367</updated>
-    </task>
-    <task id="LOCAL-00199" summary="test new image">
-      <created>1707133926920</created>
-      <option name="number" value="00199" />
-      <option name="presentableId" value="LOCAL-00199" />
-      <option name="project" value="LOCAL" />
-      <updated>1707133926920</updated>
-    </task>
-    <task id="LOCAL-00200" summary="test new image">
-      <created>1707133933696</created>
-      <option name="number" value="00200" />
-      <option name="presentableId" value="LOCAL-00200" />
-      <option name="project" value="LOCAL" />
-      <updated>1707133933696</updated>
-    </task>
-    <task id="LOCAL-00201" summary="test new image">
-      <created>1707134090928</created>
-      <option name="number" value="00201" />
-      <option name="presentableId" value="LOCAL-00201" />
-      <option name="project" value="LOCAL" />
-      <updated>1707134090928</updated>
-    </task>
-    <task id="LOCAL-00202" summary="test new image">
-      <created>1707134173928</created>
-      <option name="number" value="00202" />
-      <option name="presentableId" value="LOCAL-00202" />
-      <option name="project" value="LOCAL" />
-      <updated>1707134173928</updated>
-    </task>
-    <task id="LOCAL-00203" summary="test new image">
-      <created>1707135536987</created>
-      <option name="number" value="00203" />
-      <option name="presentableId" value="LOCAL-00203" />
-      <option name="project" value="LOCAL" />
-      <updated>1707135536987</updated>
-    </task>
-    <task id="LOCAL-00204" summary="test new image">
-      <created>1707135927897</created>
-      <option name="number" value="00204" />
-      <option name="presentableId" value="LOCAL-00204" />
-      <option name="project" value="LOCAL" />
-      <updated>1707135927897</updated>
-    </task>
-    <task id="LOCAL-00205" summary="test new image">
-      <created>1707136937724</created>
-      <option name="number" value="00205" />
-      <option name="presentableId" value="LOCAL-00205" />
-      <option name="project" value="LOCAL" />
-      <updated>1707136937724</updated>
-    </task>
-    <task id="LOCAL-00206" summary="test new image">
-      <created>1707138612109</created>
-      <option name="number" value="00206" />
-      <option name="presentableId" value="LOCAL-00206" />
-      <option name="project" value="LOCAL" />
-      <updated>1707138612109</updated>
-    </task>
-    <task id="LOCAL-00207" summary="test new image">
-      <created>1707139094592</created>
-      <option name="number" value="00207" />
-      <option name="presentableId" value="LOCAL-00207" />
-      <option name="project" value="LOCAL" />
-      <updated>1707139094592</updated>
-    </task>
-    <task id="LOCAL-00208" summary="test new image">
-      <created>1707139245973</created>
-      <option name="number" value="00208" />
-      <option name="presentableId" value="LOCAL-00208" />
-      <option name="project" value="LOCAL" />
-      <updated>1707139245973</updated>
-    </task>
-    <task id="LOCAL-00209" summary="test new image">
-      <created>1707140888963</created>
-      <option name="number" value="00209" />
-      <option name="presentableId" value="LOCAL-00209" />
-      <option name="project" value="LOCAL" />
-      <updated>1707140888963</updated>
-    </task>
-    <task id="LOCAL-00210" summary="test new image">
-      <created>1707141035737</created>
-      <option name="number" value="00210" />
-      <option name="presentableId" value="LOCAL-00210" />
-      <option name="project" value="LOCAL" />
-      <updated>1707141035737</updated>
-    </task>
-    <task id="LOCAL-00211" summary="test new image">
-      <created>1707141125532</created>
-      <option name="number" value="00211" />
-      <option name="presentableId" value="LOCAL-00211" />
-      <option name="project" value="LOCAL" />
-      <updated>1707141125532</updated>
-    </task>
-    <task id="LOCAL-00212" summary="test new image">
-      <created>1707141147283</created>
-      <option name="number" value="00212" />
-      <option name="presentableId" value="LOCAL-00212" />
-      <option name="project" value="LOCAL" />
-      <updated>1707141147283</updated>
-    </task>
-    <task id="LOCAL-00213" summary="test new image">
-      <created>1707141224886</created>
-      <option name="number" value="00213" />
-      <option name="presentableId" value="LOCAL-00213" />
-      <option name="project" value="LOCAL" />
-      <updated>1707141224886</updated>
-    </task>
-    <task id="LOCAL-00214" summary="test new image">
-      <created>1707142916768</created>
-      <option name="number" value="00214" />
-      <option name="presentableId" value="LOCAL-00214" />
-      <option name="project" value="LOCAL" />
-      <updated>1707142916768</updated>
-    </task>
-    <task id="LOCAL-00215" summary="test new image">
-      <created>1707143198061</created>
-      <option name="number" value="00215" />
-      <option name="presentableId" value="LOCAL-00215" />
-      <option name="project" value="LOCAL" />
-      <updated>1707143198061</updated>
-    </task>
-    <task id="LOCAL-00216" summary="test new image">
-      <created>1707147061617</created>
-      <option name="number" value="00216" />
-      <option name="presentableId" value="LOCAL-00216" />
-      <option name="project" value="LOCAL" />
-      <updated>1707147061617</updated>
-    </task>
-    <task id="LOCAL-00217" summary="test new image">
-      <created>1707147148832</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1707147148832</updated>
-    </task>
-    <option name="localTasksCounter" value="218" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
+    <option name="RECENT_FILTERS">
       <map>
-        <entry key="MAIN">
+        <entry key="Branch">
           <value>
-            <State />
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="test new files" />
-    <MESSAGE value="test new image" />
-    <option name="LAST_COMMIT_MESSAGE" value="test new image" />
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
