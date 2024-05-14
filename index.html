@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="css/style.css">
 
   </head>
-  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="50">
 
   <div class="site-wrap">
 
@@ -38,30 +38,27 @@
       </div>
       <div class="site-mobile-menu-body"></div>
     </div>
-    <header class="site-navbar py-4 bg-white js-sticky-header site-navbar-target" role="banner">
-    <div class="container">
-        <div class="row align-items-center">
+    <header class="site-navbar py-0 bg-white js-sticky-header site-navbar-target" role="banner" style="height:50px">
 
-          <div class="col-8 col-xl-2">
-            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h5 mb-0">Cojocaru Lab<span class="text-primary">.</span> </a></h1>
+      <div class="container">
+          <div class="row align-items-center">
+
+            <div class="col-2 col-xl-2">
+              <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h5 mb-0">Cojocaru Lab<span class="text-primary">.</span> </a></h1>
+            </div>
+            <div class="col-8 col-md-10 d-none d-xl-block">
+              <nav class="site-navigation position-relative text-right" role="navigation">
+                <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+                  <li><a href="news.html" class="nav-link">News</a></li>
+                  <li><a href="index.html" class="nav-link">Home</a></li>
+                  <li><a href="research.html" class="nav-link">Research</a></li>
+                  <li><a href="education.html" class="nav-link">Education</a></li>
+                  <li><a href="team.html" class="nav-link">Team</a></li>
+                </ul>
+              </nav>
+            </div>
+            <div class="col-6 d-inline-block d-xl-none ml-md-0 py-0" style="position: relative; top: 1px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black float-right"><span class="icon-menu h3"></span></a></div>
           </div>
-          <div class="col-12 col-md-10 d-none d-xl-block">
-            <nav class="site-navigation position-relative text-right" role="navigation">
-              <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                <li><a href="news.html" class="nav-link">News</a></li>
-                <li><a href="index.html" class="nav-link">Home</a></li>
-                <li><a href="research.html" class="nav-link">Research</a></li>
-                <li><a href="education.html" class="nav-link">Education</a></li>
-                <li><a href="team.html" class="nav-link">Team</a></li>
-              </ul>
-            </nav>
-          </div>
-          <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black float-right"><span class="icon-menu h3"></span></a></div>
-        </div>
-    </div>
-      <div>
-
-
       </div>
 
     </header>
@@ -69,12 +66,11 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
 
-          <div class="col-md-12" data-aos="fade-up" data-aos-delay="400">
+          <div class="col-md-12" data-aos="fade-up" data-aos-delay="300">
                         
-            <div class="row mb-4">
-              <div class="col-md-6">
+            <div class="row mb-8">
+              <div class="col-md-7">
                 <h1> Computational Structural Biochemistry</h1>
-                <p class="mb-5"></p>
                 <div>
                 </div>
               </div>
@@ -106,102 +102,20 @@
     <div class="site-section" id="about-section">
       <div class="container">
         <div class="row align-items-lg-center">
-          <div class="col-md-3 mb-5 mb-lg-0 position-relative">
-            <img src="figures/ubb_logo.jpg" class="img-fluid" alt="Image">
+          <div class="col-md-5 mb-5 mb-lg-0 position-relative">
+            <img src="figures/creic.jpg" class="img-fluid" alt="Image">
           </div>
-          <div class="col-md-8 ml-auto">
-            <h2 class="section-title mb-3">STAR-UBB Institute </h2>
-            <p class="mb-4">Our team operates within the cutting-edge environment of the CREIC Innovation Center. Comprising a tight-knit group of researchers, we are dedicated to unraveling the mysteries of structural biology and deciphering the intricate mechanisms at play.</p>
+          <div class="col-md-7 ml-auto">
+            <div class="col-md-23 mb-23 mb-lg-3 position-relative">
+              <img src="figures/star.png" class="img-fluid" alt="Image">
+            </div>
+            <br>
+            <br>
             <p><a href="https://starubb.institute.ubbcluj.ro/" class="btn btn-primary btn-black--hover">Learn More</a></p>
           </div>
         </div>
       </div>
     </div>
-
-    <section class="site-section border-bottom" id="team-section">
-      <div class="container">
-        <div class="row mb-9">
-          <div class="col-12 text-center">
-            <h3 class="section-sub-title">Team</h3>
-            <h2 class="section-title mb-3">Our Team</h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-5 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
-            <div class="person text-center">
-              <h3></h3>
-              <p class="position text-muted"></p>
-              <p class="mb-4"></p>
-              <ul class="ul-social-circle">
-              </ul>
-            </div>
-          </div>
-          <div class="col-md-10 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
-            <div class="person text-center">
-              <img src="figures/vlad.png" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
-              <h3>Vlad Cojocaru</h3>
-              <p class="position text-muted">Coordinator</p>
-              <p class="mb-10">I am a principal researcher specializing in computational molecular biochemistry with a broad interdisciplinary background. My work has uncovered insights into the influence of molecular structure on cellular function, employing various modeling methods and leading successful projects in interdisciplinary teams.</p>
-              <ul class="ul-social-circle">
-                <li><a href="#"><span class="icon-twitter"></span></a></li>
-                <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                <br>
-                <br>
-                <br>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md-5 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
-            <div class="person text-center">
-              <h3></h3>
-              <p class="position text-muted"></p>
-              <p class="mb-4"></p>
-              <ul class="ul-social-circle">
-              </ul>
-            </div>
-          </div>
-          <br>
-          <div class="row">
-          <div class="col-md-7 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
-            <div class="person text-center">
-              <img src="figures/roxana.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
-              <h3>Roxana Vasarhelyi</h3>
-              <p class="position text-muted">PhD student</p>
-              <p class="mb-4">I am presently engaged in studying protein-RNA interactions, employing docking tools and pipelines to elucidate the mechanism underlying the interaction between RMM motifs and RNA</p>
-              <ul class="ul-social-circle">
-                <li><a href="#"><span class="icon-twitter"></span></a></li>
-                <li><a href="#"><span class="icon-linkedin"></span></a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md-7 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="300">
-            <div class="person text-center">
-              <img src="figures/theodor.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
-              <h3>Theodor Danescu</h3>
-              <p class="position text-muted">PhD student</p>
-              <p class="mb-4">For my BSc and MsC I have studied metal clusters using computational muthods such as DFT. I'm interested in different computational methods for analysing biological structures.</p>
-              <ul class="ul-social-circle">
-                <li><a href="#"><span class="icon-twitter"></span></a></li>
-                <li><a href="#"><span class="icon-linkedin"></span></a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md-7 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="300">
-            <div class="person text-center">
-              <img src="figures/patrick.png" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
-              <h3>Patrick Comer</h3>
-              <p class="position text-muted">Master student</p>
-              <p class="mb-4">Pursuing biochemichal molecular dynamics focused on quantifying transcription factor protein-protein and protein-DNA interactions.</p>
-              <ul class="ul-social-circle">
-                <li><a href="#"><span class="icon-twitter"></span></a></li>
-                <li><a href="#"><span class="icon-linkedin"></span></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
 
 
     
