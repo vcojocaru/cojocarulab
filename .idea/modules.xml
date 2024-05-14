@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/group_pages.iml" filepath="$PROJECT_DIR$/.idea/group_pages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cojocarulab.iml" filepath="$PROJECT_DIR$/.idea/cojocarulab.iml" />
     </modules>
   </component>
 </project>
