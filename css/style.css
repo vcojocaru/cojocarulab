@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5,
     padding-right: 20px; }
     .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-close {
       float: right;
-      margin-top: 5px; }
+      margin-top: 8px; }
       .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-close span {
         font-size: 30px;
         display: inline-block;
@@ -430,7 +430,7 @@ h1, h2, h3, h4, h5,
           color: #25262a; }
     .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-logo {
       float: left;
-      margin-top: 0px;
+      margin-top: 10px;
       margin-left: 0px; }
       .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-logo a {
         display: inline-block;
@@ -443,7 +443,7 @@ h1, h2, h3, h4, h5,
     overflow-y: scroll;
     -webkit-overflow-scrolling: touch;
     position: relative;
-    padding: 0 0px 0px 0px;
+    padding: 0 20px 20px 20px;
     height: calc(100vh - 52px);
     padding-bottom: 10px; }
   .site-mobile-menu .site-nav-wrap {
@@ -452,7 +452,7 @@ h1, h2, h3, h4, h5,
     list-style: none;
     position: relative; }
     .site-mobile-menu .site-nav-wrap a {
-      padding: 0px 0px;
+      padding: 10px 20px;
       display: block;
       position: relative;
       color: #212529; }
@@ -476,7 +476,7 @@ h1, h2, h3, h4, h5,
       .site-mobile-menu .site-nav-wrap .arrow-collapse:hover {
         background: #f8f9fa; }
       .site-mobile-menu .site-nav-wrap .arrow-collapse:before {
-        font-size: 12px;
+        font-size: 10px;
         z-index: 20;
         font-family: "icomoon";
         content: "\f078";
@@ -509,14 +509,14 @@ h1, h2, h3, h4, h5,
           display: block; }
           .site-mobile-menu .site-nav-wrap > li > ul > li > a {
             padding-left: 40px;
-            font-size: 16px; }
+            font-size: 10px; }
           .site-mobile-menu .site-nav-wrap > li > ul > li > ul {
             padding: 0;
             margin: 0; }
             .site-mobile-menu .site-nav-wrap > li > ul > li > ul > li {
               display: block; }
               .site-mobile-menu .site-nav-wrap > li > ul > li > ul > li > a {
-                font-size: 16px;
+                font-size: 10px;
                 padding-left: 60px; }
     .site-mobile-menu .site-nav-wrap[data-class="social"] {
       float: left;
