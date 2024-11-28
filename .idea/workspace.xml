@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="updated News page with Vlad's podcast on spotify">
-      <change afterPath="$PROJECT_DIR$/figures/PhD candidate.png" afterDir="false" />
+    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="updated news page and new phd position">
+      <change afterPath="$PROJECT_DIR$/figures/project_image.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oportunities.html" beforeDir="false" afterPath="$PROJECT_DIR$/oportunities.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +56,14 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/figures" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/figures/project_image.png" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -90,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718129813058</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated news page and new phd position">
+      <option name="closed" value="true" />
+      <created>1720170777734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720170777734</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +145,7 @@
     <MESSAGE value="delete older files" />
     <MESSAGE value="adjusted the navbar and removed unecessary things" />
     <MESSAGE value="updated News page with Vlad's podcast on spotify" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated News page with Vlad's podcast on spotify" />
+    <MESSAGE value="updated news page and new phd position" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated news page and new phd position" />
   </component>
 </project>
