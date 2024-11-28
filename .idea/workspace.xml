@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="updated news page and new phd position">
-      <change afterPath="$PROJECT_DIR$/figures/project_image.png" afterDir="false" />
+    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="new postdoc position added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oportunities.html" beforeDir="false" afterPath="$PROJECT_DIR$/oportunities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/project_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/project_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720170777734</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new postdoc position added">
+      <option name="closed" value="true" />
+      <created>1732805604163</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732805604163</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +155,7 @@
     <MESSAGE value="adjusted the navbar and removed unecessary things" />
     <MESSAGE value="updated News page with Vlad's podcast on spotify" />
     <MESSAGE value="updated news page and new phd position" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated news page and new phd position" />
+    <MESSAGE value="new postdoc position added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new postdoc position added" />
   </component>
 </project>
