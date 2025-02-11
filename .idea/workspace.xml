@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="delete older files">
-      <change afterPath="$PROJECT_DIR$/figures/star.png" afterDir="false" />
+    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="new oportunities page update image for mobile and team updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_ubb.html" beforeDir="false" afterPath="$PROJECT_DIR$/course_ubb.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/wallpaper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,25 +41,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/apps/PycharmProjects/cojocarulab/figures",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/apps/PycharmProjects/cojocarulab/figures&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/figures" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/figures/project_image.png" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -77,6 +75,71 @@
       <option name="presentableId" value="Default" />
       <updated>1707311675170</updated>
     </task>
+    <task id="LOCAL-00001" summary="adjusted the navbar and removed unecessary things">
+      <option name="closed" value="true" />
+      <created>1715700122579</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715700122579</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated News page with Vlad's podcast on spotify">
+      <option name="closed" value="true" />
+      <created>1718129813058</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718129813058</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated news page and new phd position">
+      <option name="closed" value="true" />
+      <created>1720170777734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720170777734</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new postdoc position added">
+      <option name="closed" value="true" />
+      <created>1732805604163</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732805604163</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new oportunities page update image for mobile and team updates">
+      <option name="closed" value="true" />
+      <created>1732819967928</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732819967928</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new oportunities page update image for mobile and team updates">
+      <option name="closed" value="true" />
+      <created>1732820206244</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732820206244</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new oportunities page update image for mobile and team updates">
+      <option name="closed" value="true" />
+      <created>1732820309407</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732820309407</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new oportunities page update image for mobile and team updates">
+      <option name="closed" value="true" />
+      <created>1732820434375</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732820434375</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +182,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="delete older files" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete older files" />
+    <MESSAGE value="adjusted the navbar and removed unecessary things" />
+    <MESSAGE value="updated News page with Vlad's podcast on spotify" />
+    <MESSAGE value="updated news page and new phd position" />
+    <MESSAGE value="new postdoc position added" />
+    <MESSAGE value="new oportunities page update image for mobile and team updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="new oportunities page update image for mobile and team updates" />
   </component>
 </project>
