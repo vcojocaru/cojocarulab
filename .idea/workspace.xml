@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="news master day update">
-      <change afterPath="$PROJECT_DIR$/figures/master_day.png" afterDir="false" />
+    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="update nav bar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/masters_day.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741260883536</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update nav bar">
+      <created>1741261757229</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1741261757229</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +255,7 @@
     <MESSAGE value="new postdoc position added" />
     <MESSAGE value="new oportunities page update image for mobile and team updates" />
     <MESSAGE value="news master day update" />
-    <option name="LAST_COMMIT_MESSAGE" value="news master day update" />
+    <MESSAGE value="update nav bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="update nav bar" />
   </component>
 </project>
