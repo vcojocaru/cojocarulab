@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="new oportunities page update image for mobile and team updates">
+    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="news master day update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
     </list>
@@ -142,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732820434375</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="news master day update">
+      <created>1741259441943</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741259441943</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +197,7 @@
     <MESSAGE value="updated news page and new phd position" />
     <MESSAGE value="new postdoc position added" />
     <MESSAGE value="new oportunities page update image for mobile and team updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="new oportunities page update image for mobile and team updates" />
+    <MESSAGE value="news master day update" />
+    <option name="LAST_COMMIT_MESSAGE" value="news master day update" />
   </component>
 </project>
