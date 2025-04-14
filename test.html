@@ -1,0 +1,82 @@
+  <!--<div class="col-md-4 mb-4 mb-lg-0 position-relative">
+            <img src="figures/computer.png"  alt="Image" class="img-fluid" style="display: block; margin: auto;">-->
+            </div>
+          <div class="col-md-12 ml-auto">
+            <div class="container">
+              <div class="row align-items-lg-center">
+                <div class="col-md-4 mb-4 mb-lg-0 position-relative">
+                  <img src="./figures/project_image.png", alt="Image" class="img-fluid" style="display: block; margin: auto;">
+                </div>
+                      <div class="col-md-4 mb-4 mb-lg-0 position-relative">
+                        <p><strong>Dr. Habil. Vlad Cojocaru</strong></p>
+                        <p>Senior Research Scientist</p>
+                        <p>Email:<br>
+                          <a href="mailto:vlad.cojocaru@ubbcluj.ro">vlad.cojocaru@ubbcluj.ro</a><br>
+                          <a href="mailto:v.cojocaru@uu.nl">v.cojocaru@uu.nl</a>
+                        </p>
+
+                        <p class="mt-3"><strong>Supported by:</strong></p>
+                        <a target="_blank" href="http://www.bioexcel.eu">
+                          <img class="img-fluid mb-2" height="30" src="figures/star_ubb.png" alt="Bioexcel Logo">
+                        </a>
+                        <a target="_blank" href="http://www.west-life.eu">
+                          <img class="img-fluid mb-2" height="30" src="figures/ubb.png" alt="West-Life Logo">
+                        </a>
+                        <a target="_blank" href="http://www.eosc-hub.eu">
+                          <img class="img-fluid mb-2" height="40" src="figures/utrecht.png" alt="EOSC-Hub Logo">
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-md-9 ml-auto">
+                      <div class="container">
+                        <div class="row align-items-lg-center">
+                    <div id="markdown-content"></div>
+
+                  </div>
+                </div>
+              </div>
+              <!-- Main Content Area -->
+            <div class="site-section" id="about-section">
+              <div class="container">
+                <div class="row align-items-lg-center">
+                  <div class="col-md-12 ml-auto">
+                    <br>
+                    <h2 class="section-title mb-13", style="font-size: 28px; color:black">Opportunities</h2>
+                    <hr color="#46ddb0">
+
+                  <!--<div class="col-md-4 mb-4 mb-lg-0 position-relative">
+                    <img src="figures/computer.png"  alt="Image" class="img-fluid" style="display: block; margin: auto;">-->
+                    </div>
+
+            <!-- Main Content Area -->
+            <div class="site-section" id="about-section">
+              <div class="container">
+                <div class="row align-items-lg-center">
+                  <div class="col-md-12 ml-auto">
+                    <br>
+                    <h2 class="section-title mb-13", style="font-size: 28px; color:black">Opportunities</h2>
+                    <hr color="#46ddb0">
+
+                  <!--<div class="col-md-4 mb-4 mb-lg-0 position-relative">
+                    <img src="figures/computer.png"  alt="Image" class="img-fluid" style="display: block; margin: auto;">-->
+                    </div>
+                  <div class="col-md-12 ml-auto">
+                    <div class="container">
+                      <div class="row align-items-lg-center">
+                    <div id="markdown-content"></div>
+            </div>
+          </div>
+        </div>
+
+
+
+            <script>
+              fetch('./course.md')
+                .then(response => response.text())
+                .then(markdown => {
+                  const html = marked.parse(markdown);
+                  const cleanHtml = DOMPurify.sanitize(html);
+                  document.getElementById('markdown-content').innerHTML = cleanHtml;
+                })
+                .catch(error => console.error('Error loading Markdown:', error));
+            </script>
