@@ -4,14 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="update nav bar">
+    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="update image">
+      <change afterPath="$PROJECT_DIR$/course.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/alphafold_prediction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/course_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/docking_protein_rna.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/homology_modelling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/molecular_dynamics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/structural_visualization.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/tools_used.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/star_ubb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/ubb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/utrecht.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactive_structural.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_files/interactive_structural_course/Alphafold_prediction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_files/interactive_structural_course/Homology_modelling.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_files/interactive_structural_course/Molecular_Dynamics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_files/interactive_structural_course/Structural_Visualization.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_ubb.html" beforeDir="false" afterPath="$PROJECT_DIR$/course_ubb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_reboot.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -46,20 +71,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/cojocarulab/figures",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/protein_rna_tutorial_t",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\readme_files\interactive_structural_course" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures" />
       <recent name="$PROJECT_DIR$/figures" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures\course" />
+      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\readme_files\interactive_structural_course" />
       <recent name="$PROJECT_DIR$/figures/project_image.png" />
     </key>
   </component>
@@ -206,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741261757229</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="update image">
+      <created>1741287408221</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1741287408221</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,6 +292,7 @@
     <MESSAGE value="new oportunities page update image for mobile and team updates" />
     <MESSAGE value="news master day update" />
     <MESSAGE value="update nav bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="update nav bar" />
+    <MESSAGE value="update image" />
+    <option name="LAST_COMMIT_MESSAGE" value="update image" />
   </component>
 </project>
