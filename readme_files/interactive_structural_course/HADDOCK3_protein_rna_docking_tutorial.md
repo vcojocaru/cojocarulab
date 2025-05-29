@@ -364,7 +364,7 @@ Residue visualization is essential to confirm that only those directly involved 
 <br>
 
 
-<img src="/figures/course/haddock_restraints.gif" alt="A descriptive alt text for your image" width="75%">
+<img src="/figures/course/haddock_restraints.gif" alt="A descriptive alt text for your image" width="100%">
 <br>
 
 <hr style="border: none; border-top: 1.2px solid lightgray; width: 100%;">
