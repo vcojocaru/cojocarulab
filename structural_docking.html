@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <meta charset="UTF-8">
+    <style>
+        #markdown-content {
+        color: #000000; /* Sets text color to black */
+        width: 80%;
+        margin: 0 auto;
+        font-family: Arial, sans-serif;
+        font-size: 0.9rem;
+        line-height: 1.6;
+      }
+
+      #markdown-content h1 {
+        font-size: 1.5em;
+        margin-top: 1em;
+      }
+
+      #markdown-content h2 {
+        font-size: 1em;
+        margin-top: 1em;
+      }
+
+      #markdown-content ul {
+        list-style-type: disc;
+        margin-left: 20px;
+      }
+      .vl {
+        border-left: 1.5px solid #D3D3D3;
+        height: 500px;}
+      p {
+       margin-bottom = 0;
+       margin-top = 0;
+      }
+      pre code {
+        display: block; /* Ensures it takes up full width */
+        padding: 1em;   /* Adds some padding inside the code block */
+        background: #f8f8f8; /* Light grey background */
+        color: #333;      /* Dark text color */
+        overflow-x: auto; /* Adds scrollbar if code is too wide */
+        border-radius: 5px; /* Slightly rounded corners */
+      }
+    </style>
+     <title>Cojocaru Lab - Research</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet">
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/jquery-ui.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+
+    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@2.3.10/dist/purify.min.js"></script>
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+    <div class="site-wrap">
+      <div class="site-mobile-menu site-navbar-target">
+        <div class="site-mobile-menu-header">
+          <div class="site-mobile-menu-close mt-3">
+            <span class="icon-close2 js-menu-toggle"></span>
+          </div>
+        </div>
+        <div class="site-mobile-menu-body"></div>
+      </div>
+      <div class="site-mobile-menu site-navbar-target">
+        <div class="site-mobile-menu-header">
+          <div class="site-mobile-menu-close mt-3">
+            <span class="icon-close2 js-menu-toggle"></span>
+          </div>
+        </div>
+        <div class="site-mobile-menu-body">
+          <ul style="color:black">
+            <li><a href="news.html" class="nav-link">News</a></li>
+            <li><a href="blog.html" class="nav-link">Blog</a></li>
+            <li><a href="index.html" class="nav-link">Home</a></li>
+            <li><a href="research.html" class="nav-link">Research</a></li>
+            <li><a href="education.html" class="nav-link">Education</a></li>
+            <li><a href="oportunities.html" class="nav-link">Opportunities</a></li>
+            <li><a href="team.html" class="nav-link">Team</a></li>
+            <li><a href="contact.html" class="nav-link">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+      <header class="site-navbar py-7 bg-white js-sticky-header site-navbar-target" role="banner" >
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-6 col-xl-2">
+              <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h4 mb-0">Cojocaru Lab<span class="text-primary">.</span> </a></h1>
+            </div>
+            <div class="col-12 col-md-10 d-none d-xl-block">
+              <nav class="site-navigation position-relative text-right" role="navigation">
+                <ul class="site-menu main-menu js-nav mr-auto d-none d-lg-block">
+                  <li><a href="news.html" >News</a></li>
+                  <li><a href="blog.html" class="nav-link">Blog</a></li>
+                  <li><a href="index.html" class="nav-link">Home</a></li>
+                  <li><a href="research.html" class="nav-link">Research</a></li>
+                  <li><a href="education.html" class="nav-link">Education</a></li>
+                  <li><a href="oportunities.html" class="nav-link">Opportunities</a></li>
+                  <li><a href="team.html" class="nav-link">Team</a></li>
+                  <li><a href="contact.html" class="nav-link">Contact</a></li>
+                </ul>
+              </nav>
+            </div>
+            <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black float-right active"><span class="icon-menu h3"></span></a></div>
+          </div>
+        </div>
+      </header>
+      <div class="site-section" id="about-section">
+        <div class="container" style="max-width: 1300px; margin: 0 auto;">
+        <div class="row align-items-lg">
+          <div class="col-md-2 mb-0 mb-lg-0" position-reltive>
+                  <a target="_blank"  style="margin: 0;">
+                        <img class="img-fluid mb-2" height="30" src="figures/course/course_logo.png">
+                      </a>
+                  <p style="font-size: 0.70rem;"><strong>Phd student: Roxana Vasarhelyi</strong></p>
+                        <a href="mailto:vlad.cojocaru@ubbcluj.ro" style="font-size: 0.70rem; margin-bottom: 0;">roxana.vasarhelyi@ubbcluj.ro</a><br>
+                      </p>
+                  <p style="font-size: 0.70rem;" style="font-size: 0.70rem;margin: 0;"><strong>Dr. Habil. Vlad Cojocaru</strong></p>
+                      <p style="font-size: 0.70rem;" style="font-size: 0.70rem; margin: 0;">Senior Research Scientist</p>
+                        <a href="mailto:vlad.cojocaru@ubbcluj.ro" style="font-size: 0.70rem; margin-bottom: 0;">vlad.cojocaru@ubbcluj.ro</a><br>
+                      </p>
+
+                      <p class="mt-2" style="font-size: 0.70rem; margin: 0;;"><strong>Supported by:</strong></p>
+                      <a>
+                        <img class="img-fluid mb-2" height="50" src="figures/star_ubb.png" >
+                      </a>
+                      <a>
+                        <img class="img-fluid mb-2" height="30" src="figures/ubb.png" >
+                      </a>
+                      <a>
+                        <img class="img-fluid mb-2" height="40" src="figures/utrecht.png" >
+                      </a>
+                </div>
+                <div class="vl"></div>
+                 <!-- Vertical Divider -->
+                    <div class="col-md-9 ml-3" style="width: 100%; margin: 40; box-sizing: border-box;">
+                        <h2 class="section-title mb-3" style="font-size: 1.5rem;">Integrative Structural Bioinformatics</h2>
+                        <h2 class="section-sub-title">M.Sc. Program in Bioinformatics – Babeş-Bolyai University, Cluj-Napoca, Romania</h2>
+                      <hr>
+                         <br>
+                        <div id="markdown-content" style="width: 100%; margin: 0; box-sizing: border-box; font-size: 0.8rem;">
+                        </div>
+                      </div>
+                    </div>
+  </div> <!-- .site-wrap -->
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const markdownSource = document.getElementById("markdown-source").textContent;
+      const html = marked.parse(markdownSource);
+      const cleanHtml = DOMPurify.sanitize(html);
+      document.getElementById("markdown-content").innerHTML = cleanHtml;
+    });
+</script>
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/jquery.countdown.min.js"></script>
+  <script src="js/bootstrap-datepicker.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.fancybox.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+    <script>
+              fetch('./readme_files/interactive_structural_course/HADDOCK3_protein_rna_docking_tutorial.md')
+                .then(response => response.text())
+                .then(markdown => {
+                  const html = marked.parse(markdown);
+                  const cleanHtml = DOMPurify.sanitize(html);
+                  document.getElementById('markdown-content').innerHTML = cleanHtml;
+                })
+                .catch(error => console.error('Error loading Markdown:', error));
+            </script>
+
+
+
+  </body>
+</html>

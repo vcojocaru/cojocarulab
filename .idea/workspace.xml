@@ -5,7 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="update course page">
-      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/7q4l_complex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/Scenario_1_workflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/Scenario_2_workflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/af3_web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/apo_capri_plots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/apo_capri_plots_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/apo_capri_table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/apo_result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/apo_vs_ref.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/capri_control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/capri_plots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/capri_plots_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/capri_table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/emscore_table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/haddock_restraints.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/pesto_structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/protein_rrms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/redocked_vs_ref.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/redocking_vs_ref.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/rna_7q4l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/sasa_score.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/course/str_sasa_scoring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_files/interactive_structural_course/HADDOCK3_protein_rna_docking_tutorial.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structural_docking.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structural_visualization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course.md" beforeDir="false" afterPath="$PROJECT_DIR$/course.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/course/alphafold_prediction.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/course/alphafold_prediction.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/course/docking_protein_rna.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/course/docking_protein_rna.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/course/homology_modelling.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/course/homology_modelling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/course/molecular_dynamics.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/course/molecular_dynamics.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/course/structural_visualization.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/course/structural_visualization.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive_structural.html" beforeDir="false" afterPath="$PROJECT_DIR$/interactive_structural.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_course/Structural_Visualization.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_course/Structural_Visualization.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,19 +84,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/protein_rna_tutorial_t",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/PycharmProjects/cojocarulab&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\readme_files\interactive_structural_course" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures" />
       <recent name="$PROJECT_DIR$/figures" />
@@ -230,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1744642793621</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="update course page">
+      <created>1744642898874</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1744642898874</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
