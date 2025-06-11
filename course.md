@@ -7,6 +7,9 @@ The course is designed as a research project aimed at answering a specific scien
 
 This tutorial consists of the following sections:
 
+
+<p style="color: red;">!!!!!! This tutorial is still under development so only the last part: Molecular Docking is done.</p>
+
 <p>
 <a href="https://github.com/roxanavas/integrative_structural_bioinfo/blob/main/Structural_Visualization/Structural_Visualization.md"><img src="figures/course/structural_visualization.png" width="162"></a>
 <a href="https://github.com/roxanavas/integrative_structural_bioinfo/blob/main/Homology_Modelling/Homology_modelling.md"><img src="figures/course/homology_modelling.png" width="162"></a>
