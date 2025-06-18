@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="research updates">
+    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="pce grant">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +69,8 @@
       <recent name="$PROJECT_DIR$/figures" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures\course" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\readme_files\interactive_structural_course" />
+      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures\course" />
       <recent name="$PROJECT_DIR$/figures/project_image.png" />
     </key>
   </component>
@@ -274,12 +273,12 @@
       <option name="project" value="LOCAL" />
       <updated>1749622728629</updated>
     </task>
-    <task id="LOCAL-00026" summary="research updates">
-      <created>1750263103753</created>
+    <task id="LOCAL-00026" summary="pce grant">
+      <created>1750263213926</created>
       <option name="number" value="00026" />
       <option name="presentableId" value="LOCAL-00026" />
       <option name="project" value="LOCAL" />
-      <updated>1750263103753</updated>
+      <updated>1750263213926</updated>
     </task>
     <option name="localTasksCounter" value="27" />
     <servers />
@@ -335,7 +334,7 @@
     <MESSAGE value="update course page" />
     <MESSAGE value="tutorial update" />
     <MESSAGE value="tutorial update status" />
-    <MESSAGE value="research updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="research updates" />
+    <MESSAGE value="pce grant" />
+    <option name="LAST_COMMIT_MESSAGE" value="pce grant" />
   </component>
 </project>
