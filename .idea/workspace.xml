@@ -4,9 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="tutorial update">
+    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="tutorial update status">
+      <change afterPath="$PROJECT_DIR$/figures/histone_tails_pce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/uefiscdi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/histone_tails_pce.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_files/research/ht_unpack_nucleosome.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course.md" beforeDir="false" afterPath="$PROJECT_DIR$/course.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/inter_structural_bioinfo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_ubb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive_structural.html" beforeDir="false" afterPath="$PROJECT_DIR$/interactive_structural.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_course/Alphafold_prediction.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/Alphafold_prediction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_course/HADDOCK3_protein_rna_docking_tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/HADDOCK3_protein_rna_docking_tutorial.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_course/Homology_modelling.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/Homology_modelling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_course/Molecular_Dynamics.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/Molecular_Dynamics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_course/Structural_Visualization.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/Structural_Visualization.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_html.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +84,8 @@
       <recent name="$PROJECT_DIR$/figures" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures\course" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\readme_files\interactive_structural_course" />
+      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures\course" />
       <recent name="$PROJECT_DIR$/figures/project_image.png" />
     </key>
   </component>
@@ -267,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1748545087728</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="tutorial update status">
+      <created>1749622728629</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1749622728629</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,6 +341,7 @@
     <MESSAGE value="update image" />
     <MESSAGE value="update course page" />
     <MESSAGE value="tutorial update" />
-    <option name="LAST_COMMIT_MESSAGE" value="tutorial update" />
+    <MESSAGE value="tutorial update status" />
+    <option name="LAST_COMMIT_MESSAGE" value="tutorial update status" />
   </component>
 </project>
