@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="tutorial update status">
-      <change afterPath="$PROJECT_DIR$/figures/histone_tails_pce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figures/uefiscdi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/histone_tails_pce.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_files/research/ht_unpack_nucleosome.md" afterDir="false" />
+    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="research updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/inter_structural_bioinfo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_ubb.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interactive_structural.html" beforeDir="false" afterPath="$PROJECT_DIR$/interactive_structural.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_course/Alphafold_prediction.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/Alphafold_prediction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_course/HADDOCK3_protein_rna_docking_tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/HADDOCK3_protein_rna_docking_tutorial.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_course/Homology_modelling.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/Homology_modelling.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_course/Molecular_Dynamics.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/Molecular_Dynamics.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_course/Structural_Visualization.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/Structural_Visualization.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_html.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,27 +51,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/PycharmProjects/cojocarulab&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/cojocarulab/figures",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\readme_files\interactive_structural_course" />
-      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures" />
       <recent name="$PROJECT_DIR$/figures" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\readme_files\interactive_structural_course" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures\course" />
+      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\readme_files\interactive_structural_course" />
       <recent name="$PROJECT_DIR$/figures/project_image.png" />
     </key>
   </component>
@@ -288,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1749622728629</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="research updates">
+      <created>1750263103753</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1750263103753</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,6 +335,7 @@
     <MESSAGE value="update course page" />
     <MESSAGE value="tutorial update" />
     <MESSAGE value="tutorial update status" />
-    <option name="LAST_COMMIT_MESSAGE" value="tutorial update status" />
+    <MESSAGE value="research updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="research updates" />
   </component>
 </project>
