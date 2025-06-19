@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="pce grant">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive_structural.html" beforeDir="false" afterPath="$PROJECT_DIR$/inter_structural_bioinfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/inter_structural_bioinfo.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/inter_structural_bioinfo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structural_docking.html" beforeDir="false" afterPath="$PROJECT_DIR$/structural_docking.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +54,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/cojocarulab/figures",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/PycharmProjects/cojocarulab/figures&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures" />

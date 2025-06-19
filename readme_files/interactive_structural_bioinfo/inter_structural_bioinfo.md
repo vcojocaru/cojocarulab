@@ -15,7 +15,7 @@ This tutorial consists of the following sections:
 <a href="https://github.com/roxanavas/integrative_structural_bioinfo/blob/main/Homology_Modelling/Homology_modelling.md"><img src="figures/course/homology_modelling.png" width="162"></a>
 <a href="https://github.com/roxanavas/integrative_structural_bioinfo/blob/main/Alphafold_prediction/Alphafold_prediction.md"><img src="figures/course/alphafold_prediction.png" width="162"></a>
 <a href="https://github.com/roxanavas/integrative_structural_bioinfo/blob/main/Molecular_Dynamics/Molecular_Dynamics.md"><img src="figures/course/molecular_dynamics.png" width="162"></a>
-<a href="structural_docking.html"><img src="figures/course/docking_protein_rna.png" width="162"></a>
+<a href="../../structural_docking.html"><img src="figures/course/docking_protein_rna.png" width="162"></a>
 </p>
 <hr>
 The course will be run on the NMRBox infrastructure <a href="https://nmrbox.nmrhub.org/"> NMR box</a>.</p>
