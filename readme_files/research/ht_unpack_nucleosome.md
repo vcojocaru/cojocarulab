@@ -11,7 +11,7 @@
     and control cellular conversions for their more efficient application in regenerative therapies. </p>
 </div>
 <div style="text-align: center;">
-  <img src="../figures/research/pce_nucleosome.png" style=" height: 600;" width="750";>
+  <img src="../figures/research/pce_nucleosome.png" style="max-width: 100%; height: auto;" width="450">
 </div>
 Bibliography : 
 <div style="font-size: 9px;">
