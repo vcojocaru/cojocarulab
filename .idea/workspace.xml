@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="photos updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/histone_tails_pce.html" beforeDir="false" afterPath="$PROJECT_DIR$/PCE-2023-1458.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -339,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1762948241366</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="photos updated">
+      <created>1763037584115</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1763037584115</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
