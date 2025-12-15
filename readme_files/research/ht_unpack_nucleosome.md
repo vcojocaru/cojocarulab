@@ -31,7 +31,7 @@ O3: to re-design pioneer transcription factors to optimize and control nucleosom
 
 #### Current status
 
-The executive report for 2025 is available [here](../readme_files/research/2025-Executive_Report.md)
+The executive report for 2025 is available [here](./docs/2025-Executive_Summary.pdf)
 
 <hr>
 
