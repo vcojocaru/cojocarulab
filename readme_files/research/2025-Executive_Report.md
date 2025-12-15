@@ -1,9 +1,13 @@
 <div style="text-align: justify;">
-**** Executive Report for 2025
+
+#### Executive Report for 2025
+
 Contract no. 45PCE ⁄ 08.01.2025, Stage I/2025
-****Project title:
+
+#### Project title:
 How do transcription factors interplay with histone tails to unravel genomic nucleosomes ?
-**** Website
+
+#### Website
 [https://cojocarulab.eu/PCE-2023-1458.html](https://cojocarulab.eu/PCE-2023-1458.html)
 
 <p>
