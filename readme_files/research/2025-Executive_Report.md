@@ -1,0 +1,20 @@
+<div style="text-align: justify;">
+**** Executive Report for 2025
+Contract no. 45PCE ⁄ 08.01.2025, Stage I/2025
+****Project title:
+How do transcription factors interplay with histone tails to unravel genomic nucleosomes ?
+**** Website
+[https://cojocarulab.eu/PCE-2023-1458.html](https://cojocarulab.eu/PCE-2023-1458.html)
+
+<p>
+We are developing a python pipeline to build complete atomistic models of transcription factor – nucleosome complexes and predict the preferred binding location of transcription factor on genomic nucleosomes. To date, we finalized the first objective of this pipeline: to build complete atomistic models from the available experimental structures which are often of low resolution and lack important parts such as linker DNAs, histone tails, and side chains of aminoacids at the interaction interface. The pipeline is essential for producing high quality atomistic model which will enable the interpretation of experimental data and the setup of molecular dynamics simulations. We aim to release the pipeline for the entire research community.
+</p>
+<p>
+New experimental data from our collaborators from Utrecht University shows that the folding of the transcription factor Sox2 which is crucial for the maintenance and induction of stem cell properties is modulated by DNA binding. At room temperature, the Sox2 fold is stabilized but not modified upon DNA binding. In contrast, at physiological temperature the fold of Sox2 is significantly destabilized in the absence of DNA, adopting the stable known topology only upon DNA binding. To explain these findings, we performed extensive molecular dynamics simulations of the free and DNA bound Sox2. From the simulations, we characterized the Sox2 fold and found that it is stabilized by DNA binding especially in the end region of the DNA binding domain. In addition, we characterized the dynamics of unstructured tails flanking the DNA binding domain. Our results rationalized the experimental findings and provided essential details in understanding how DNA binding impacts on the stability of Sox2 folding. These results are now published in top journal Nucleic Acids Research (https://doi.org/10.1093/nar/gkaf1121)
+</p>
+<p>
+To reveal whether Sox2 is capable of opening nucleosomes, we performed extensive molecular dynamics simulations of free and Sox2-bound nucleosomes starting with complete atomistic models built using a protocol similar to the one we are using in the pipeline described above. The preliminary results show that Sox2 is capable of inducing a transition from a closed to an open conformation of the nucleosome at least in one simulation. However, this was reversible, the open conformation closing back in later stages of the simulation. Further analysis is necessary to decode the mechanism of Sox2 induced nucleosome opening.
+</p>
+<p>
+Last, we performed extensive molecular dynamics simulations of the complex between another major regulator of stem cell properties, Oct4 and a nucleosome which is lacking histone tails. We previously showed that Oct4 and the histone tails interplay to induce an opening of this nucleosome. To test whether Oct4 is still able to open the nucleosome in the absence of histone tails, we removed the histone tails and performed simulations of Oct4-tailless nucleosome complexes. The very first part of these simulations were published before. However, the timescale of the published simulations was limited to 2 µs. Since the tailless nucleosomes open more extensively and faster in simulations in general, we reasoned that by extending these simulations we can provide a more comprehensive view of the mechanism by which Oct4 induces nucleosome opening. In turn, we will use the results from these simulations to optimize the protocol which include enhanced sampling simulations that we will be using to study the interaction between transcription factors and nucleosome
+</p>
