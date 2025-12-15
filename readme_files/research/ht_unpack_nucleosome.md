@@ -18,8 +18,11 @@
 <br>
 
 #### Objectives:
-O1: to develop workflows based on enhanced sampling MD simulations to study large scale  nucleosome dynamics in MD simulations; 
+
+O1: to develop workflows based on enhanced sampling MD simulations to study large scale  nucleosome dynamics in MD simulations;
+
 O2: to model and simulate how selected pioneer transcription factors bind to genomic nucleosomes and modify their dynamics using extensive classical and enhanced sampling MD simulations; 
+
 O3: to re-design pioneer transcription factors to optimize and control nucleosome and chromatin opening.
 
 <br> 
