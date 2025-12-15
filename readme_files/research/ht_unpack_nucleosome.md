@@ -1,5 +1,7 @@
 <div style="text-align: justify;">
+
 #### Summary:
+
 <p>
     This project is focused on discovering the mechanisms by which a special class of proteins known as
     pioneer transcription factors bind to and open pieces of genomic DNA. The longer term goal will be to
@@ -15,7 +17,7 @@
   <img src="../figures/research/pce_nucleosome.png" width="95%">
 </div>
 
-<br>
+<hr>
 
 #### Objectives:
 
@@ -25,11 +27,13 @@ O2: to model and simulate how selected pioneer transcription factors bind to gen
 
 O3: to re-design pioneer transcription factors to optimize and control nucleosome and chromatin opening.
 
-<br> 
+<hr> 
 
-#### [Current status](../readme_files/research/2025-Executive_Report.md)
+#### Current status
 
-<br>
+The executive report for 2025 is available [here](../readme_files/research/2025-Executive_Report.md)
+
+<hr>
 
 #### Bibliography :
 
