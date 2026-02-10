@@ -1,11 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Cojocaru Lab - Research</title>
+     <meta charset="UTF-8">
+    <style>
+        #markdown-content {
+        color: #000000;
+        width: 100%;
+        margin: 0 auto;
+        font-family: Arial, sans-serif;
+        font-size: 0.9rem;
+        line-height: 1.6;
+      }
+
+      /* This creates the "Two Column" look for each section */
+      .section-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 30px;
+        margin: 40px 0;
+      }
+
+      .section-image {
+        flex: 1;
+        min-width: 250px;
+        max-width: 300px;
+      }
+
+      .section-image img {
+        width: 100%;
+        height: auto;
+        display: block;
+      }
+
+      .section-text {
+        flex: 2;
+        min-width: 300px;
+      }
+
+      /* Styling your buttons to look like the original */
+      .btn-primary {
+        display: inline-block;
+        background-color: #007bff;
+        color: white;
+        padding: 8px 16px;
+        text-decoration: none;
+        border-radius: 4px;
+        margin-right: 10px;
+        margin-top: 10px;
+      }
+
+      hr {
+        border: 0;
+        border-top: 1.5px solid #D3D3D3;
+
+      }
+    </style>
+     <title>Cojocaru Lab - Research</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    
+
+
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet">
     <link rel="stylesheet" href="fonts/icomoon/style.css">
 
@@ -24,10 +79,11 @@
     <link rel="stylesheet" href="css/aos.css">
 
     <link rel="stylesheet" href="css/style.css">
-    
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@2.3.10/dist/purify.min.js"></script>
   </head>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
-  
+
   <div class="site-wrap">
 
     <div class="site-mobile-menu site-navbar-target">
@@ -38,9 +94,6 @@
       </div>
       <div class="site-mobile-menu-body"></div>
     </div>
-    </head>
-    <body data-spy="scroll" data-target=".site-navbar-target" data-offset="50">
-
     <div class="site-wrap">
       <div class="site-mobile-menu site-navbar-target">
         <div class="site-mobile-menu-header">
@@ -63,7 +116,7 @@
             <li><a href="index.html" class="nav-link">Home</a></li>
             <li><a href="research.html" class="nav-link">Research</a></li>
             <li><a href="education.html" class="nav-link">Education</a></li>
-            <li><a href="oportunities_md.html" class="nav-link">Opportunities</a></li>
+            <li><a href="oportunities.html" class="nav-link">Opportunities</a></li>
             <li><a href="team.html" class="nav-link">Team</a></li>
             <li><a href="contact.html" class="nav-link">Contact</a></li>
           </ul>
@@ -93,52 +146,27 @@
           </div>
         </div>
       </header>
-    <section class="site-section bg-light" id="contact-section" style="background:#ccc">
-      <div class="container">
-        <div class="row mb-1">
-          <div class="col-12">
-            <br>
-            <br>
-            <h2 class="section-title mb-13", style="font-size: 28px; color:black">Contact</h2>
-            <hr color="#46ddb0">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-7 mb-5">
-            <form action="#" class="p-5 bg-white">
-
-
-              <img src="figures/star.png" class="img-fluid" alt="Image">
-              <br>
-              <br>
-                <h2 class="h3 text-black mb-7">Vlad Cojocaru  </h2>
-                  <p class="section-sub-title">Group Leader</p>
-                  <a style="color:#343a40"><span class="icon-envelope mr-2"> vlad.cojocaru[-at-]ubbcluj.ro</span>
-                <br>
-                    <br>
-                    <h2 class="footer-heading mb-7" style="font-size:25px">Follow Us</h2>
-                      <a href="https://twitter.com/cojocarulab" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-                      <a href="https://nl.linkedin.com/in/vlad-cojocaru-412a46b5" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
-            </form>
-          </div>
-          <div class="col-md-5">
-            <div class="p-1 mb-5 bg-white">
-              <p class="mb-0 font-weight-bold">Address</p>
-              <p class="mb-4">Street Tiberiu Popoviciu 2-4,
-                Cluj-Napoca, Romania</p>
-              <p class="mb-4"><a href="#"></a></p>
-              <ul class="ul-social-circle">
-                <p><a href="https://www.google.com/maps/dir//Cluj+Innovation+Park+Str.+Tiberiu+Popoviciu+nr.+2-4+Cluj-Napoca+400647/@46.8208125,23.5794471,16z/data=!4m5!4m4!1m0!1m2!1m1!1s0x4749096a53b968dd:0xc117a8b14a5e101e" class="btn btn-primary btn-black--hover">Directions</a></p>
-              </ul>
-              <img src="figures/creic.jpg" class="img-fluid" alt="Image">
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
+      <div class="site-section" id="about-section">
+        <div class="container">
+          <div class="row align-items-lg-center">
+            <div class="col-md-12 ml-auto">
+              <h2 class="section-title mb-13", style="font-size: 28px; color:black">Opportunities</h2>
+                 <!-- Vertical Divider -->
+                    <div class="col-md-9 ml-3" style="width: 100%; margin: 40; box-sizing: border-box;">
+                        <div id="markdown-content" style="width: 100%; margin: 0; box-sizing: border-box; font-size: 0.8rem;">
+                        </div>
+                      </div>
+                    </div>
   </div> <!-- .site-wrap -->
 
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const markdownSource = document.getElementById("markdown-source").textContent;
+      const html = marked.parse(markdownSource);
+      const cleanHtml = DOMPurify.sanitize(html);
+      document.getElementById("markdown-content").innerHTML = cleanHtml;
+    });
+</script>
   <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
   <script src="js/jquery-ui.js"></script>
@@ -153,8 +181,22 @@
   <script src="js/jquery.fancybox.min.js"></script>
   <script src="js/jquery.sticky.js"></script>
 
-  
-  <script src="js/main.js"></script>
-  </body>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
 
+    <script>
+              fetch('./readme_files/interactive_structural_bioinfo/oportunities.md')
+                .then(response => response.text())
+                .then(markdown => {
+                  const html = marked.parse(markdown);
+                  const cleanHtml = DOMPurify.sanitize(html);
+                  document.getElementById('markdown-content').innerHTML = cleanHtml;
+                })
+                .catch(error => console.error('Error loading Markdown:', error));
+            </script>
+
+
+
+  </body>
 </html>
