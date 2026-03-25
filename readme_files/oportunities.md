@@ -5,20 +5,12 @@
 ### PhD Position – AI Methods in Drug Design and Data Analysis
 <h4 style="color: teal;">APPLICATION DEADLINE : 30 April 2026</h4>
 
-<table border="0">
-  <tr>
-    <td width="30%" valign="top">
-      <img src="./figures/evadere.png" alt="EVADERE Logo" width="100%">
-    </td>
-    <td width="70%" valign="top" style="padding-left: 20px;">
-      <strong>Supervisor:</strong> Prof. Vlad Cojocaru<br>
-      <strong>Co-Supervisor:</strong> Prof. Andreas Bender<br><br>
-      <strong>Contacts:</strong><br>
-      <a href="mailto:vlad.cojocaru@ubbcluj.ro">vlad.cojocaru@ubbcluj.ro</a><br>
-      <a href="mailto:andreas.bender@ubbcluj.ro">andreas.bender@ubbcluj.ro</a>
-    </td>
-  </tr>
-</table>
+<img src="./figures/evadere.png" alt="EVADERE Logo" width="25%"></img>
+
+
+Supervisor: Prof. Vlad Cojocaru, email: vlad.cojocaru@ubbcluj.ro
+
+Co-Supervisor: Prof. Andreas Bender, email: andreas.bender@ubbcluj.ro
 
 ##### Project Description - Objectives
 Training in methods and deployment of machine learning/artificial intelligence, as well as macromolecular structural modelling will be embedded into a joint bioinformatics groups of Prof Andreas Bender and Prof Vlad Cojocaru at UBB, which is able to provide all necessary expertise and training related to both chemical and biological aspects of modelling the systems in this consortium. In concrete terms, DC15 will train ML/AI models for assay-based readouts of the experimental parts of the consortium using interpretable (rule- and tree-based) machine learning methods, explore the use of generative models for design, and analyze and model structural data of TLR4 for informed design using molecular dynamics, docking, and other suitable approaches.
@@ -36,7 +28,6 @@ The PhD candidate will be enrolled in the Doctoral School for Integrative Biolog
 
 ##### Gross Salary
 99816 EUR + 25560 mobility allowance (36 months). This translates into a gross salary of 2800 EUR/month (approx 8300 RON netto). The mobility allowance is not taxed and will be paid in full 710 EUR/month (approx 3550 RON). Furthermore 660 EUR/month (approx 3300 RON) family allowance if applicable.
-
 [Download consent form ](https://evadere1.eu/files/consent%20form.pdf)| [Project details](https://evadere1.eu/)   
 
 

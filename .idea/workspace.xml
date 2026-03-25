@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="update oportunities_md">
+    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="updated news">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oportunities_md.html" beforeDir="false" afterPath="$PROJECT_DIR$/oportunities_md.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_files/oportunities.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/oportunities.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -398,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1774458233865</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="updated news">
+      <created>1774460133055</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1774460133055</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,6 +470,7 @@
     <MESSAGE value="team" />
     <MESSAGE value="update oportunities_md and news" />
     <MESSAGE value="update oportunities_md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update oportunities_md" />
+    <MESSAGE value="updated news" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated news" />
   </component>
 </project>
