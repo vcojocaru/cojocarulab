@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="team">
-      <change afterPath="$PROJECT_DIR$/oportunities_md.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/oportunities.md" afterDir="false" />
+    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="update oportunities_md">
+      <change afterPath="$PROJECT_DIR$/content/news.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PCE-2023-1458.html" beforeDir="false" afterPath="$PROJECT_DIR$/PCE-2023-1458.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inter_structural_bioinfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/inter_structural_bioinfo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural_docking.html" beforeDir="false" afterPath="$PROJECT_DIR$/structural_docking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural_visualization.html" beforeDir="false" afterPath="$PROJECT_DIR$/structural_visualization.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oportunities.html" beforeDir="false" afterPath="$PROJECT_DIR$/oportunities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oportunities_md.html" beforeDir="false" afterPath="$PROJECT_DIR$/oportunities_md.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/oportunities.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/oportunities.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,17 +56,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/PycharmProjects/cojocarulab/figures&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/cojocarulab",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures" />
@@ -83,6 +76,7 @@
       <recent name="$PROJECT_DIR$/figures" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\readme_files\" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\readme_files\interactive_structural_course" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures\course" />
@@ -386,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1765280787961</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="update oportunities_md">
+      <created>1770725861727</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1770725861727</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -446,6 +447,7 @@
     <MESSAGE value="photos updated" />
     <MESSAGE value="update pce" />
     <MESSAGE value="team" />
-    <option name="LAST_COMMIT_MESSAGE" value="team" />
+    <MESSAGE value="update oportunities_md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update oportunities_md" />
   </component>
 </project>
