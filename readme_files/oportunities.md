@@ -2,10 +2,11 @@
 <div style="text-align: justify;">
 <hr style="border: none; border-top: 2px solid lightgray; width: 100%;">
 
-### PhD Position – AI Methods in Drug Design and Data Analysis
-<h4 style="color: teal;">APPLICATION DEADLINE : 30 April 2026</h4>
+### PhD position 
+#### AI Methods in Drug Design and Data Analysis
+<h2 style="color: #46ddb0;">Apply until: 30/04/2026</h2>
 
-<img src="./figures/evadere.png" alt="EVADERE Logo" width="25%"></img>
+<img src="./figures/evadere.png" alt="EVADERE Logo" width="35%"></img>
 
 
 Supervisor: Prof. Vlad Cojocaru, email: vlad.cojocaru@ubbcluj.ro
@@ -35,8 +36,8 @@ The PhD candidate will be enrolled in the Doctoral School for Integrative Biolog
 
 <hr style="border: none; border-top: 2px solid lightgray; width: 100%;">
 
-## PhD candidate position
-### POSITION TAKEN
+### PhD candidate position
+#### POSITION TAKEN
 
 
  <img src="./figures/PhD%20candidate.png" alt="A descriptive alt text for your image" width="35%">
@@ -48,8 +49,8 @@ Dear candidates, registration at the Integrative Biology Doctoral School takes p
 
 <hr style="border: none; border-top: 2px solid lightgray; width: 100%;">
 
-## Postdoc position
-### POSITION TAKEN
+### Postdoc position
+#### POSITION TAKEN
 
  <img src="./figures/project_image.png" alt="A descriptive alt text for your image" width="35%">
 
@@ -72,8 +73,8 @@ Dear candidates, registration at the Integrative Biology Doctoral School takes p
 
 <hr style="border: none; border-top: 2px solid lightgray; width: 100%;">
 
-## PhD candidate position
-### POSITION TAKEN
+### PhD candidate position
+#### POSITION TAKEN
 
  <img src="./figures/PhD%20candidate.png" alt="A descriptive alt text for your image" width="35%">
 
