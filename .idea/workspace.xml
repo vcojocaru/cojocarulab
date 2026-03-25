@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="update oportunities_md">
-      <change afterPath="$PROJECT_DIR$/content/news.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oportunities.html" beforeDir="false" afterPath="$PROJECT_DIR$/oportunities.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oportunities_md.html" beforeDir="false" afterPath="$PROJECT_DIR$/oportunities_md.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/oportunities.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme_files/oportunities.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -387,7 +384,21 @@
       <option name="project" value="LOCAL" />
       <updated>1770725861727</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="update oportunities_md and news">
+      <created>1774458045342</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1774458045342</updated>
+    </task>
+    <task id="LOCAL-00042" summary="update oportunities_md">
+      <created>1774458233865</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1774458233865</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -447,6 +458,7 @@
     <MESSAGE value="photos updated" />
     <MESSAGE value="update pce" />
     <MESSAGE value="team" />
+    <MESSAGE value="update oportunities_md and news" />
     <MESSAGE value="update oportunities_md" />
     <option name="LAST_COMMIT_MESSAGE" value="update oportunities_md" />
   </component>
