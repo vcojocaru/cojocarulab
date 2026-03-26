@@ -3,7 +3,7 @@
 <hr style="border: none; border-top: 2px solid lightgray; width: 100%;">
 
 ### PhD position 
-#### AI Methods in Drug Design and Data Analysis
+#### AI Methods in Vaccine development and Data Analysis
 <h2 style="color: #46ddb0;">Apply until: 30/04/2026</h2>
 
 <img src="./figures/evadere.png" alt="EVADERE Logo" width="35%"></img>
