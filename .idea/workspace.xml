@@ -6,15 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="updated structure of pages adding json and .md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education_page/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/alphafold_prediction.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/alphafold_prediction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/homology_modelling.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/homology_modelling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/molecular_dynamics.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/molecular_dynamics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_docking.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_docking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_visualisation.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_visualisation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog_page/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_page/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news_page/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news_page/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oportunities_page/oportunities.html" beforeDir="false" afterPath="$PROJECT_DIR$/oportunities_page/oportunities.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research_page/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research_page/research.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
