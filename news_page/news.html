@@ -203,7 +203,7 @@
             let openInNewTab = false;
 
             if (mdPath) {
-              actionUrl = `/cojocarulab/view_md.html?md=${encodeURIComponent(mdPath)}`;
+              actionUrl = `/view_md.html?md=${encodeURIComponent(mdPath)}`;
               openInNewTab = true; // Change to false if you want it in the same tab
             } else if (item.link && item.link !== '#') {
               actionUrl = item.link;

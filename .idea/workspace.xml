@@ -6,8 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="updated structure of pages adding json and .md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/tutorial_viewer_md.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/tutorial_viewer_md.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view_md.html" beforeDir="false" afterPath="$PROJECT_DIR$/view_md.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education_page/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/education.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/alphafold_prediction.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/alphafold_prediction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/homology_modelling.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/homology_modelling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/molecular_dynamics.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/molecular_dynamics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_docking.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_docking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_visualisation.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_visualisation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_page/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news_page/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oportunities_page/oportunities.html" beforeDir="false" afterPath="$PROJECT_DIR$/oportunities_page/oportunities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research_page/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research_page/research.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,14 +102,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707311675170</updated>
-    </task>
-    <task id="LOCAL-00008" summary="new oportunities page update image for mobile and team updates">
-      <option name="closed" value="true" />
-      <created>1732820434375</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1732820434375</updated>
     </task>
     <task id="LOCAL-00009" summary="news master day update">
       <created>1741259441943</created>
@@ -440,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1795468428740</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="updated structure of pages adding json and .md">
+      <created>1795468789431</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1795468789431</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
