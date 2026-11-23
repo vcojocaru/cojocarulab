@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="updated structure of pages adding json and .md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_page/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_page/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_page/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news_page/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oportunities_page/oportunities_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/oportunities_page/oportunities_data.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,13 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707311675170</updated>
-    </task>
-    <task id="LOCAL-00009" summary="news master day update">
-      <created>1741259441943</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1741259441943</updated>
     </task>
     <task id="LOCAL-00010" summary="news master day update">
       <created>1741259609426</created>
@@ -439,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1795468789431</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="updated structure of pages adding json and .md">
+      <created>1795470891538</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1795470891538</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

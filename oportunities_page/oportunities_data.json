@@ -5,7 +5,7 @@
     "subtitle2": "Application open until 30/04/2026 Cluj-Napoca Romania" ,
     "body":"Training in methods and deployment of machine learning/artificial intelligence, as well as macromolecular structural modelling will be embedded into a joint bioinformatics groups of Prof Andreas Bender and Prof Vlad Cojocaru at UBB, which is able to provide all necessary expertise and training related to both chemical and biological aspects of modelling the systems in this consortium.",
     "image": "/figures/evadere.png",
-    "link": "/cojocarulab/oportunities_page/evadere_2026.md"
+    "link": "=/oportunities_page/evadere_2026.md"
   },
   {
     "title": "Computational structural biology - UBB",
@@ -13,7 +13,7 @@
     "subtitle2": "Application open until 11/09/2025" ,
     "body": "Dear candidates, registration at the Integrative Biology Doctoral School takes place in two sessions: summer 10-16 July 2025 and autumn 8-11 september 2025. According to the methodology described on the website of the Institute of Doctoral Studies of UBB, registration is done online on the dedicated platform. PhD position on the application and development of physics-based and AI-based computational methods to decode and re-engineer interactions between biomolecules with the aim of generating novel knowledge that may contribute to future therapeutic applications.",
     "image": "/figures/PhD%20candidate.png",
-    "link": "/cojocarulab/oportunities_page/phd_ubb_2025.md"
+    "link": "/oportunities_page/phd_ubb_2025.md"
   },
   {
     "title": "Transcription Factors interact with Histone Tails to unpack nucleosomes ",
@@ -21,14 +21,14 @@
     "subtitle2": "Application open until 20/12/2025" ,
     "body": "The project is aimed at understanding the mechanisms by which a special class of proteins essential for gene regulation (transcription factors) bind to DNA when wrapped around histone proteins as it is in the genome in our cells. Transcription factors are fascinating molecules that define the identity of cells and are capable of promoting healthy or pathological cellular transitions." ,
     "image": "/figures/project_image.png",
-    "link": "/cojocarulab/oportunities_page/postdoc_pce_2025.md"
+    "link": "/oportunities_page/postdoc_pce_2025.md"
   },
   {
     "title": "Computational structural biology - UBB",
     "subtitle1": "PhD position",
     "subtitle2": "Application open until 09/09/2024" ,
     "body": "Dear candidates, registration at the Integrative Biology Doctoral School takes place in two sessions: summer 15 – 19 July 2024 and autumn 4 – 9 September 2023. According to the methodology described on the website of the Institute of Doctoral Studies of UBB, registration is done online on the dedicated platform.",  ",image": "/figures/PhD%20candidate.png",
-    "link": "/cojocarulab/oportunities_page/phd_ubb_2024.md",
+    "link": "/oportunities_page/phd_ubb_2024.md",
     "image": "/figures/PhD%20candidate.png"
   }
 ]
