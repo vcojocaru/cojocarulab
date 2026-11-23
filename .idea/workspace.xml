@@ -94,13 +94,6 @@
       <option name="presentableId" value="Default" />
       <updated>1707311675170</updated>
     </task>
-    <task id="LOCAL-00010" summary="news master day update">
-      <created>1741259609426</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1741259609426</updated>
-    </task>
     <task id="LOCAL-00011" summary="news master day update">
       <created>1741259804731</created>
       <option name="number" value="00011" />
@@ -437,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1795470891538</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="updated structure of pages adding json and .md">
+      <created>1795471228019</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1795471228019</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
