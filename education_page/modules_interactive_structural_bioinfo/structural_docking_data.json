@@ -5,6 +5,6 @@
     "subtitle2": "" ,
     "body":"This tutorial demonstrates the use of the new modular HADDOCK3 version for predicting the structure of Dead-end protein bound to single-stranded RNA, using its two RNA recognition motifs. Dead-end protein uses RRM1 to bind the RNA, while RRM2, an unusual RRM, works in conjunction with RRM1 to sandwich the RNA between them.",
     "image": "/figures/docking_protein_rna.png",
-    "link": "/cojocarulab/education_page/modules_interactive_structural_bioinfo/structural_docking_rna_protein.md"
+    "link": "/education_page/modules_interactive_structural_bioinfo/structural_docking_rna_protein.md"
   }
 ]
