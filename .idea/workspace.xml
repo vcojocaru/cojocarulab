@@ -95,14 +95,6 @@
       <option name="presentableId" value="Default" />
       <updated>1707311675170</updated>
     </task>
-    <task id="LOCAL-00003" summary="updated news page and new phd position">
-      <option name="closed" value="true" />
-      <created>1720170777734</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1720170777734</updated>
-    </task>
     <task id="LOCAL-00004" summary="new postdoc position added">
       <option name="closed" value="true" />
       <created>1732805604163</created>
@@ -444,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1795467503633</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="updated structure of pages adding json and .md">
+      <created>1795467775635</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1795467775635</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
