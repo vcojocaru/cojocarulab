@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="updated structure of pages adding json and .md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +64,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\figures\research" />
-      <recent name="C:\Users\Admin\PycharmProjects\cojocarulab" />
       <recent name="C:\Users\Admin\PycharmProjects\cojocarulab\readme_files\interactive_structural_course" />
       <recent name="$PROJECT_DIR$/figures" />
     </key>
@@ -94,14 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707311675170</updated>
-    </task>
-    <task id="LOCAL-00001" summary="adjusted the navbar and removed unecessary things">
-      <option name="closed" value="true" />
-      <created>1715700122579</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1715700122579</updated>
     </task>
     <task id="LOCAL-00002" summary="updated News page with Vlad's podcast on spotify">
       <option name="closed" value="true" />
@@ -446,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1795467202306</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="updated structure of pages adding json and .md">
+      <created>1795467421901</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1795467421901</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
