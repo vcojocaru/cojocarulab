@@ -4,54 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/blog_page/blog_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/education_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/alphafold_prediction.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/alphafold_prediction_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/alphafold_prediction_data.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/homology_modelling.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/homology_modelling_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/homology_modelling_data.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/molecular_dynamics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/molecular_dynamics_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/molecular_dynamics_data.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_docking_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_visualisation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_visualisation_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_visualisation_protein_rna.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/tutorial_viewer_md.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figures/PCE_2023_1458.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figures/docking_protein_rna.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news_page/news_demo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oportunities_page/evadere_2026.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oportunities_page/oportunities_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oportunities_page/phd_ubb_2024.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oportunities_page/phd_ubb_2025.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oportunities_page/postdoc_pce_2025.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research_page/research_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view_md.html" afterDir="false" />
+    <list default="true" id="c5858ff9-3b85-45e9-9422-82516d4528b6" name="Changes" comment="updated structure of pages adding json and .md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PCE-2023-1458.html" beforeDir="false" afterPath="$PROJECT_DIR$/research_page/PCE_2023_1458.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_page/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/news.json" beforeDir="false" afterPath="$PROJECT_DIR$/news_page/news_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inter_structural_bioinfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/interactive_structural_bioinfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news_page/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oportunities_md.html" beforeDir="false" afterPath="$PROJECT_DIR$/oportunities_page/oportunities.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/Alphafold_prediction.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/HADDOCK3_protein_rna_docking_tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_docking_rna_protein.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/Homology_modelling.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/Molecular_Dynamics.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/Structural_Visualization.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/interactive_structural_bioinfo/inter_structural_bioinfo.md" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/interactive_structural_bioinfo_data.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/oportunities.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_files/research/ht_unpack_nucleosome.md" beforeDir="false" afterPath="$PROJECT_DIR$/research_page/PCE_2023_1458_data.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research_page/research.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural_docking.html" beforeDir="false" afterPath="$PROJECT_DIR$/education_page/modules_interactive_structural_bioinfo/structural_docking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural_visualization.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -484,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1795371685518</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="updated structure of pages adding json and .md">
+      <created>1795467202306</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1795467202306</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -549,6 +511,7 @@
     <MESSAGE value="updated news" />
     <MESSAGE value="updated news and opport" />
     <MESSAGE value="updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+    <MESSAGE value="updated structure of pages adding json and .md" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated structure of pages adding json and .md" />
   </component>
 </project>
