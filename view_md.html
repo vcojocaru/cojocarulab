@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Cojocaru Lab</title>
+    <link rel="stylesheet" href="/cojocarulab/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/cojocarulab/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
+    <style>
+      body {
+        background-color: #ffffff;
+        color: #222222;
+      }
+      .md-wrapper {
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 32px;
+        background: #ffffff;
+        border: 1px solid #e5e5e5;
+        border-radius: 6px;
+        line-height: 1.65;
+      }
+      .md-wrapper img {
+        max-width: 100%;
+        height: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="md-wrapper">
+        <a href="/cojocarulab/oportunities_page/oportunities.html" class="btn btn-sm btn-outline-secondary mb-4">&larr; Back</a>
+        <div id="md-viewer">Loading...</div>
+      </div>
+    </div>
+
+    <script>
+      async function renderMarkdownPage() {
+        const target = document.getElementById('md-viewer');
+        const params = new URLSearchParams(window.location.search);
+        const mdFile = params.get('md');
+
+        if (!mdFile) {
+          target.innerHTML = '<p class="text-danger mb-0">No Markdown file specified.</p>';
+          return;
+        }
+
+        try {
+          const res = await fetch(mdFile);
+          if (!res.ok) {
+            throw new Error(`Could not load ${mdFile} (status ${res.status})`);
+          }
+          const mdText = await res.text();
+          target.innerHTML = DOMPurify.sanitize(marked.parse(mdText));
+        } catch (err) {
+          target.innerHTML = `<p class="text-danger mb-0">${err.message}</p>`;
+        }
+      }
+
+      renderMarkdownPage();
+    </script>
+  </body>
+</html>

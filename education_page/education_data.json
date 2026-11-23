@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Integrative Structural Bioinformatics (Msc/PhD)",
+    "subtitle1": "Babes Bolyai University Course",
+    "subtitle2": "" ,
+    "body":"This course it is an introduction to the visualisation and analysis of the structures involved in biological mechanisms. Using experimentally determined structures and docking we analyse these structures and potential binding targets.",
+    "image": "/figures/course/course_logo.png",
+    "link": "./interactive_structural_bioinfo.html"
+  }
+]

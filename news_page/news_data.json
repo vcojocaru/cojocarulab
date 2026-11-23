@@ -4,7 +4,7 @@
     "subtitle1": "Admision OPEN",
     "subtitle2": "15.07-20.07 Cluj-Napoca Romania" ,
     "body": "On June 15-20 Cluj will be the capital of the worldwide computational chemistry and biochemistry communitiies. The fantastic line of speakers for the ISQBP 2026 is now complete. There will also be a satellite conference of the Romanian community. Early registration and abstract submission until April 1st. Check out all info carefully on our website and spread the word. ",
-    "image": "figures/isqbp_2026.png",
+    "image": "../figures/isqbp_2026.png",
     "link": "https://isqbp2026.com/"
   },
   {
@@ -12,7 +12,7 @@
     "subtitle1": "Marie Skłodowska-Curie program",
     "subtitle2": "Application open until 30.04.2026" ,
     "body": "Babeș-Bolyai University has partnered with the EVADERE network, a highly competitive project funded by the Marie Skłodowska-Curie program. The initiative focuses on developing vaccines against antibiotic-resistant bacteria, a major global health threat. The project leverages the expertise of two world-class researchers: Andreas Bender (AI for drug discovery) and Vlad Cojocaru (computational biochemistry). They use advanced algorithms and molecular simulations to identify epitopes — molecular targets that trigger the immune system to attack resistant bacteria. The team is currently recruiting one PhD student to join this research axis at UBB. Check the opportunities",
-    "image": "figures/evadere_epitope.png",
+    "image": "../figures/evadere_epitope.png",
     "link": "https://evadere1.eu/"
   },
   {
@@ -20,7 +20,7 @@
     "subtitle1": "",
     "subtitle2": "TVR Cluj, Atena, Prima Tv" ,
     "body": "Two researchers—one of whom is from Babeș-Bolyai University in Cluj-Napoca—are working on developing vaccines against antibiotic-resistant bacteria using artificial intelligence.The TVR Cluj news team has discovered an illegal landfill in Mintiu Gherlii, just a few hundred meters from the main road.\nAdditionally, the radar system intended to monitor Romania's highways starting this year has been delayed and will no longer be eligible for PNRR funding.These stories, and more, in the regional news report." ,
-    "image": "figures/tv_apearance.png",
+    "image": "../figures/tv_apearance.png",
     "link": "https://www.youtube.com/watch?v=_Qb2AtV9I4k"
   },
   {
@@ -28,7 +28,7 @@
     "subtitle1": "28/03/2025, 10:00 - 17:00",
     "subtitle2": "Casa Universitarilor (str. Emmanuel de Martonne, nr 1, foaierul Auditoriului Maximum)",
     "body": "The event is designed and organized by the Academic School for Natural and Life Sciences which includes 6 faculties of the Babeș-Bolyai University (Biology and Geology, Chemistry, Physics, Geography, Mathematics and Informatics, Environmental Science and Engineering) and is dedicated to master's and bachelor's students (and anyone who wants to participate). The event aims to familiarize students with research projects from the multiple master's programs at these faculties and offers a unique multidisciplinary platform where students can explore projects from various fields and discuss with researchers and teaching stuff in an informal setting. The program includes presentations of research projects and master's programs in poster format (10:00-13:00), a snacks & drinks break (13:00-14:00), and a session of round tables where students can interact informally with researchers and teaching staff (14:00 - 17:00).",
-    "image": "figures/master_day.png",
+    "image": "../figures/master_day.png",
     "link": "#"
   },
   {
@@ -52,7 +52,7 @@
     "subtitle1": "Phase Space Invaders",
     "subtitle2": "",
     "body": "In the twelfth episode, Vlad Cojocaru and I discuss how the simulation field can integrate further layers of complexity in modeling transcription control and genome organization in humans. Vlad shares his insights on the computational biology of transcription factors, including DNA-mediated allostery and pioneer transcription factors, which are crucial for cellular reprogramming. Our discussion then shifts to the underexplored topic of researchers' returning to our home countries as group leaders.",
-    "image": "figures/podcast_vlad.png",
+    "image": "../figures/podcast_vlad.png",
     "link": "https://open.spotify.com/episode/05io1pqEpCXA6jhRNTQVvH?si=Bxf9ZpxCR6qknk3TcBWJhw"
   },
   {
@@ -60,7 +60,7 @@
     "subtitle1": "ATHENS",
     "subtitle2": "May 19-23, 2024",
     "body": "The 2024 Meeting of the International Society of Quantum Biology and Pharmacology (ISQBP) will take place in Athens. For the past 50 years, the ISQBP has organized dynamic biennial meetings providing a forum to discuss and extend the impact of computational methodologies in the fields of biology, chemistry, chemical biology, and pharmacology.",
-    "image": "figures/isqbp.jpg",
+    "image": "../figures/isqbp.jpg",
     "link": "https://isqbp2024.org/"
   }
 ]
