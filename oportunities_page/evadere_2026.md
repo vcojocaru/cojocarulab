@@ -3,7 +3,7 @@
 
 <h2 style="color: #46ddb0;">Apply until: 30/04/2026</h2>
 
-<img src="/cojocarulab/figures/evadere.png" alt="EVADERE Logo" width="35%">
+<img src="/figures/evadere.png" alt="EVADERE Logo" width="35%">
 
 * **Supervisor:** Prof. Vlad Cojocaru, email: `vlad.cojocaru@ubbcluj.ro`
 * **Co-Supervisor:** Prof. Andreas Bender, email: `andreas.bender@ubbcluj.ro`
